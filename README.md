@@ -31,4 +31,7 @@ Below is a breakdown of what can be gleaned from this data by each metric.
 * In a reverse of the pattern, Rural has the highest Average Fare per Ride ($34.62), followed by Suburban ($30.97), then Urban ($24.53). This is due to the fact that even though the total fares for Rural was significantly smaller than Urban, so was its Total Rides metric, which meant that there was a smaller base over which to spread the Total Fares. 
 
 ### Average Fare per Driver
-* Same as above, Rural 
+* Same as above, Rural has the highest Average Fare per Ride ($55.49), followed by Suburban ($39.50), then Urban ($16.57), for the same reason mentioned above. 
+
+## Summary
+In summary, Rural appears to be the least profitable city type based on metrics listed above, followed by Suburban, then Urban. The company could therefore boost marketing in Rural and Suburban areas to increase awareness of the company and potentially gain more riders that way. They could also hire more drivers in Rural and Suburban areas, since lack of rides could be due to lack of available drivers. A third recommendation, however, could be to decrease fares in Rural and Suburban areas, given that they had the highest Average Fare per Ride (and per Driver), and these higher fares could be keeping customers away.
